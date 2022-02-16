@@ -10,8 +10,12 @@ description: 'This resource is a form, which asks the participants to fill some 
   development, physical improvement and design issues faced by the district.  Indicate
   any opportunities that you see for combining economic development and physical design
   plans, and How does the program plan to use the final plan?'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/95fede874ac2af62c57ffce4abd6ff56_hjsms_app_form.pdf
+file: /media/courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/95fede874ac2af62c57ffce4abd6ff56_hjsms_app_form.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: hjsms_app_form.pdf
 uid: 95fede87-4ac2-af62-c57f-fce4abd6ff56

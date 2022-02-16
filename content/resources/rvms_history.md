@@ -9,8 +9,12 @@ description: Roslindale, MA originally part of Roxbury and then West Roxbury was
   was empty storefronts and burned out buildings. Seventy-five percent of the commercial
   spaces were vacant. The businesses that managed to stay in the district were completely
   grated. There was virtually no foot traffic.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/fd4b948ccd6e93acc6b95ca3acc5c100_rvms_history.pdf
+file: /media/courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/fd4b948ccd6e93acc6b95ca3acc5c100_rvms_history.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: rvms_history.pdf
 uid: fd4b948c-cd6e-93ac-c6b9-5ca3acc5c100

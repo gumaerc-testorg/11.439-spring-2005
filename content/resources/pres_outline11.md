@@ -11,8 +11,12 @@ description: 'The given outline is a guide for thinking about organizing and pre
   we will use class discussion to articulate and expand upon these latter two items,
   your thinking and recommendations in these two areas will initiate and advance the
   discussion.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/88a9b3d78047a7178a446fc94bed8824_pres_outline11.pdf
+file: /media/courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/88a9b3d78047a7178a446fc94bed8824_pres_outline11.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: pres_outline11.pdf
 uid: 88a9b3d7-8047-a717-8a44-6fc94bed8824
