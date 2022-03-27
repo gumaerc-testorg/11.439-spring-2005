@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: aebd398e-0780-e27b-bfd3-f6fae0af80d6
 resourcetype: Document
 title: roslindale_repo1.pdf
 uid: 78cd3f76-7294-4bc5-a04f-c16a361fcff2

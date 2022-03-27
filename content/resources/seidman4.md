@@ -20,6 +20,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 8eafea75-ea73-1246-c670-c79dfd1501f6
 resourcetype: Document
 title: seidman4.pdf
 uid: 673b95e2-b2b7-ff38-4b88-2f2f070c67e3

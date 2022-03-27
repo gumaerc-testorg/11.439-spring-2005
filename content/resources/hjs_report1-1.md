@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: aebd398e-0780-e27b-bfd3-f6fae0af80d6
 resourcetype: Document
 title: hjs_report1.pdf
 uid: 883e60f7-0d2c-4282-f659-96d566abdbb8

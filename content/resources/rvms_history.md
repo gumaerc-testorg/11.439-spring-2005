@@ -15,6 +15,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ab182a6c-39de-c055-a3dd-577ea9da1ddd
 resourcetype: Document
 title: rvms_history.pdf
 uid: fd4b948c-cd6e-93ac-c6b9-5ca3acc5c100

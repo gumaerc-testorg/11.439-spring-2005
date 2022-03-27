@@ -15,6 +15,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ab182a6c-39de-c055-a3dd-577ea9da1ddd
 resourcetype: Document
 title: hjsms_research.pdf
 uid: ae6c4eee-37d4-c25c-579c-6b9506b7ab36

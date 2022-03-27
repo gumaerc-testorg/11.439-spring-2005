@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ab182a6c-39de-c055-a3dd-577ea9da1ddd
 resourcetype: Document
 title: project_plann4.pdf
 uid: 5be9aa67-0472-9a6d-d55f-6dbd1e32b001
