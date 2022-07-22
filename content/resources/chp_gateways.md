@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: Two artistic illustrations of gateways.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_gateways.jpg
 uid: 1636a77f-3cbc-bef8-9872-d529bb319f7f
 ---
 Vision for new gateways to Roslindale Village (above) and Jackson Square (below). Image courtesy of the studio.
-

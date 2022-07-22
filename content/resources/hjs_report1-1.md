@@ -6,6 +6,7 @@ file: /courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslin
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hjs_report1.pdf
 uid: 883e60f7-0d2c-4282-f659-96d566abdbb8
 ---
 This file contains the student final report on the project on the strategy plan for Hyde/Jackson Square main streets.
-

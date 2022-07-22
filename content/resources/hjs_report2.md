@@ -4,6 +4,7 @@ description: ''
 file: /courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/ebe49b817955b72fde1990ac46cbbfb9_hjs_report2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: hjs_report2.pdf

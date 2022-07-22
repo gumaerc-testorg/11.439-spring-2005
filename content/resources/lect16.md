@@ -8,6 +8,7 @@ file: /courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslin
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lect16.pdf
 uid: 6aff9b71-f810-af2a-089f-493fc42dc9fa
 ---
 This resource discusses the following topics: Uses of Market Analysis, Market Analysis Audiences, Three Approaches, District Quantitative Analysis, Customer-Based Analysis, Niche or Store-Based Analysis, Hyde Park Market Analysis, Asset and Capacity Analysis, Capacity Assessment, Civic Capacity, and Assets for Revitalization.
-

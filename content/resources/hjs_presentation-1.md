@@ -7,6 +7,7 @@ file: /courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslin
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: hjs_presentation.pdf
 uid: 685eb7cb-f678-0569-5b98-a9c9f7acb826
 ---
 This resource conatins a presentation on the strategy plan for Hyde/Jackson Square main streets. The agenda followed is: Vision, Analysis, Synthesis, Recommendations, and Conclusion.
-
