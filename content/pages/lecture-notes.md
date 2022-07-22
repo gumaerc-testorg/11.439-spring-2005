@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section lists the topics covered in the class, along with class
+  notes for various topics.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: a814bfce-4d8a-1f45-ee70-537414f13116
 ---
@@ -199,7 +204,7 @@ Economic Planning Tools III: Asset and Capacity Assessment
 
 Market Analysis is critical to evaluating the economic potential of business districts and identifying which specific retail and service businesses are most likely to be viable in a specific Main Streets district. We will use two market study reports, one for Hyde Park and one for Brattleboro, Vermont to review and assess market analysis approaches. This class will also review several frameworks for understanding and evaluating community assets and capacity and discuss how they can be applied to better understand the opportunities and constraints in each neighborhood.
 
-Market and Capacity Analysis for Commercial District Planning ([PDF]({{< baseurl >}}/resources/lect16))
+Market and Capacity Analysis for Commercial District Planning ({{% resource_link 6aff9b71-f810-af2a-089f-493fc42dc9fa "PDF" %}})
 
 
 {{< tdclose >}}
@@ -393,7 +398,7 @@ Policies and Interventions I: Safety and Sanitation
 
 Perceptions on crime and deterioration are a major obstacle to revitalization for many urban commercial districts and providing a safe and clean environment is often a precondition for progress on other revitalization goals. This class reviews approaches that Main Street programs and Business Improvement Districts use to address crime issues and improve the district cleanliness.
 
-Commercial District Safety and Sanitation ([PDF]({{< baseurl >}}/resources/lect15))
+Commercial District Safety and Sanitation ({{% resource_link ddad3d62-bc80-6e3b-5b85-55e391984232 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -453,7 +458,7 @@ As the economic foundation and key customer destination for commercial districts
 
 The class will also discuss the need for commercial centers to attract and sustain customer markets for their businesses and the overall district. We will look at the tools and approaches used to develop a district marketing image or position and to directly market the business districts to distinct customer groups.
 
-District Revitalization Tools: Business Development and Marketing ([PDF]({{< baseurl >}}/resources/lect17))
+District Revitalization Tools: Business Development and Marketing ({{% resource_link f70dbdf7-63b1-f3a3-2cc2-d0032fd6da4a "PDF" %}})
 
 
 {{< tdclose >}}
