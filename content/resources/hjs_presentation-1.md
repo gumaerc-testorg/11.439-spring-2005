@@ -4,6 +4,7 @@ description: 'This resource conatins a presentation on the strategy plan for Hyd
   Square main streets. The agenda followed is: Vision, Analysis, Synthesis, Recommendations,
   and Conclusion.'
 file: /courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/685eb7cbf67805695b98a9c9f7acb826_hjs_presentation.pdf
+file_size: 2918733
 file_type: application/pdf
 learning_resource_types:
 - Projects

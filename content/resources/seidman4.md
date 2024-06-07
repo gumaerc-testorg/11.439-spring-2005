@@ -14,6 +14,7 @@ description: 'After decades of decline, cities are rebounding, and one key to br
   by the Fannie Mae Foundation, on the use of the Main Street approach to revitalize
   inner-city business districts.'
 file: /courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/673b95e2b2b7ff384b882f2f070c67e3_seidman4.pdf
+file_size: 399119
 file_type: application/pdf
 learning_resource_types:
 - Readings
