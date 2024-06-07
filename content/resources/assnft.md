@@ -4,6 +4,7 @@ description: This resource contains a set of questions that the students must ke
   in m ind while their tour of Districts. It conatins different set of questions for
   all different 4 teams.
 file: /courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/731538e3ecc6fbec3f0492544adc0151_assnft.pdf
+file_size: 40748
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

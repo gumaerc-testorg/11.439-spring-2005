@@ -11,6 +11,7 @@ description: 'This resource is a form, which asks the participants to fill some 
   any opportunities that you see for combining economic development and physical design
   plans, and How does the program plan to use the final plan?'
 file: /courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/95fede874ac2af62c57ffce4abd6ff56_hjsms_app_form.pdf
+file_size: 14119
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
