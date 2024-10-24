@@ -2,7 +2,7 @@
 content_type: resource
 description: Vision for new gateways to Roslindale Village (above) and Jackson Square
   (below). Image courtesy of the studio.
-file: /courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/1636a77f3cbcbef89872d529bb319f7f_chp_gateways.jpg
+file: /ol-ocw-studio-app/courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/1636a77f3cbcbef89872d529bb319f7f_chp_gateways.jpg
 file_size: 157583
 file_type: image/jpeg
 image_metadata:
