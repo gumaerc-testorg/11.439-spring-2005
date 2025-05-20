@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the student final report on the project on the strategy
   plan for Hyde/Jackson Square main streets.
-file: /ol-ocw-studio-app/courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/883e60f70d2c4282f65996d566abdbb8_hjs_report1.pdf
+file: /courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/883e60f70d2c4282f65996d566abdbb8_hjs_report1.pdf
 file_size: 1139944
 file_type: application/pdf
 learning_resource_types:

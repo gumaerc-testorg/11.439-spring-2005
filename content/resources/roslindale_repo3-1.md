@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains the student final report on the project on the strategy
   plan for Roslindale village. This resource covers chapter 2, section C and appendices
   from the report.
-file: /ol-ocw-studio-app/courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/8bddcbebedeb93d3bf9d6d1fb64fb0c6_roslindale_repo3.pdf
+file: /courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/8bddcbebedeb93d3bf9d6d1fb64fb0c6_roslindale_repo3.pdf
 file_size: 1761840
 file_type: application/pdf
 learning_resource_types:
