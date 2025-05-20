@@ -8,7 +8,7 @@ description: 'During this initial assessment phase, our goal is to identify the 
   Square the tasks should add to, not duplicate, their existing market research: Conduct
   a detailed physical analysis of the District, Conduct a detailed inspection and
   observation of the commercial activity of the District, etc.'
-file: /ol-ocw-studio-app/courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/5be9aa6704729a6dd55f6dbd1e32b001_project_plann4.pdf
+file: /courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/5be9aa6704729a6dd55f6dbd1e32b001_project_plann4.pdf
 file_size: 37602
 file_type: application/pdf
 learning_resource_types: []

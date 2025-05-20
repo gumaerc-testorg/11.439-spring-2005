@@ -9,7 +9,7 @@ description: 'HJSMS has done a significant amount of research on the commercial 
   evidence suggests that sales in the district are down. Why is that? And what is
   the best way to turn that situation around?, and 5) What should be the role and
   agenda of the design committee?'
-file: /ol-ocw-studio-app/courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/ae6c4eee37d4c25c579c6b9506b7ab36_hjsms_research.pdf
+file: /courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/ae6c4eee37d4c25c579c6b9506b7ab36_hjsms_research.pdf
 file_size: 25344
 file_type: application/pdf
 learning_resource_types: []

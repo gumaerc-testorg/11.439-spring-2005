@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains goals and objectives set for the Roslindale village
   main streets.
-file: /ol-ocw-studio-app/courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/84409f276d2592968610a0fe5ce85abc_rvms_goals.pdf
+file: /courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/84409f276d2592968610a0fe5ce85abc_rvms_goals.pdf
 file_size: 14579
 file_type: application/pdf
 learning_resource_types: []
