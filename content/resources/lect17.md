@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/f70dbdf763b1f3a32cc2d0032fd6da4a_lect17.pdf
+file: /courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/f70dbdf763b1f3a32cc2d0032fd6da4a_lect17.pdf
 file_size: 79982
 file_type: application/pdf
 learning_resource_types:
